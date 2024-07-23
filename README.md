@@ -1,2 +1,2 @@
-<h2> Hey!</h2> 
+## Hey!
 <p>Weclome to my page! </p>
